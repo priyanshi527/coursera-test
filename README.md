@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+I made a responsive site using HTML,CSS and JavaScript.
+It consists of three pages including Home Page, Menu Page and Menu Category Page.
 
-You can use the [editor on GitHub](https://github.com/priyanshi527/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Header: In full Screen mode it shows the logo of Restaurant which changes it's size as the size of screen changes with a certification on the left hand size and 3 icons of Menu,           About and Awards the it has a calling number on clicking there you get directed to your calling app with number dialled so that you can directly call with a message of             "* We Deliver" which changes to a collapsable navbar having four tabs to go to Home , Menu, About or Awards portion and the call option covers the entire width of the             page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Footer: The footer consists of the details of the dummy restaurant site like opening closing hours, address ,delivery conditions and copyright.
 
-### Markdown
+1) Home Page : It consists of a picture of the restaurant followed by three sections : Menu which directs you to the Menu page, Specials which directs you to the special category                page and the Google Maps which directs you to the hotel location.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2) Menu Page : It consists of various categories of dishes which you can order along with their picutes to add more temptations and increase the orders.
 
-```markdown
-Syntax highlighted code block
+3) Specials : It consists of Special food of the restaurant along with it's pictures to give a view of how they serve the food along with it's price according to quantity and a                 small description of the dish. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/priyanshi527/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The layout is made using BOOTSTRAP4 functionalities. For icons I have used glyphicons again from bootstrap .
+All the pictures are from open source sites.
+This is my first project in web development.
